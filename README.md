@@ -11,7 +11,8 @@
 - Operating Systems: Windows, macOS, Linux, Android, iOS
 - Other Tools: Microsoft Office Suite
 - 💞️ I’m looking to collaborate on being more confident and making many different projects.
-- 📫 How to reach me by email - bwilkins708@gmail.com
+- 📫 How to reach me by email or LinkedIn - bwilkins708@gmail.com
+https://www.linkedin.com/in/brook-wilkins-86b90a1b8/
 
 <!---
 BWilkins708/BWilkins708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
